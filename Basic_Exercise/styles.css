@@ -1,0 +1,36 @@
+/* TAG SELECTORS */
+div {
+  margin: 5px;
+}
+
+h1 {
+  color: #b8dfe6;
+}
+
+#third > span {
+  visibility: hidden;
+}
+
+img {
+  width: 300px;
+  height: 300px;
+}
+
+p {
+  color: #f95965;
+}
+
+video {
+  width: 352px;
+  height: 352px;
+}
+
+iframe {
+  width: 352px;
+  height: 352px;
+}
+
+/* CLASS SELECTORS */
+p.right {
+  display: none;
+}

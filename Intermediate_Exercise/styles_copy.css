@@ -1,0 +1,32 @@
+/* TAG SELECTORS */
+div {
+  margin: 5px;
+}
+
+h1 {
+  color: #b8dfe6;
+}
+
+img {
+  width: 352px;
+  height: 352px;
+}
+
+p {
+  color: #f95965;
+}
+
+video {
+  width: 352px;
+  height: 352px;
+}
+
+iframe {
+  width: 352px;
+  height: 352px;
+}
+
+/* CLASS SELECTORS */
+p.right {
+  background-color: #f7e8dd;
+}
