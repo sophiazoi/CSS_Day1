@@ -1,0 +1,13 @@
+/* NOTE TO MYSELF: ORDER IT ALPHABETICALLY */
+
+.main-article {
+  margin: 0% 30%;
+  padding: 25px;
+  text-align: justify;
+  background-color: white;
+}
+
+.head-article {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: start;
+}
